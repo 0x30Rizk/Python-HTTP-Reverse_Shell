@@ -1,5 +1,5 @@
 # Python-HTTP-Reverse_Shell
-HTTP Reverse Shell 
+HTTP reverse shell for single client 
 
 
-HTTP reverse shell from single client 
+
